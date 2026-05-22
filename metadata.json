@@ -2,5 +2,4 @@
   "name": "Tic Tac Toe",
   "description": "An advanced, aesthetic Tic Tac Toe game with adaptive AI, multiple themes, and interactive visual effects.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
